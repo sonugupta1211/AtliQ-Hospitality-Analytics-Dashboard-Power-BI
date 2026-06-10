@@ -1,7 +1,7 @@
 # AtliQ-Hospitality-Analytics-Dashboard-Power-BI
 
-📌 Project Overview
-
+**📌 Project Overview
+**
 * Developed an interactive Power BI dashboard to analyze hotel performance across multiple properties and cities.
 * Created a centralized reporting solution for monitoring revenue, occupancy, booking trends and operational KPIs.
 * Enabled data-driven decision-making through interactive visualizations and performance tracking.
@@ -72,3 +72,6 @@
 * Improved visibility into key business and operational metrics.
 * Enabled performance comparison across properties, cities and room categories.
 * Supported data-driven decision-making through interactive analytics.
+
+* <img width="1233" height="755" alt="image" src="https://github.com/user-attachments/assets/51ea0196-3c6f-41e4-aee4-8076f4f93850" />
+
